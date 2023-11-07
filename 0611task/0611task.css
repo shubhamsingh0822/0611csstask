@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    height: 150px;
+    background-color: blue;
+    color: aliceblue;
+    display: flex;
+}
+.logo{
+    width: 25%;
+    height: inherit;
+
+    background-image: url("download.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: blue;
+}
+.menu{
+    width: 75%;
+    height: inherit;
+    display: flex;
+    justify-content: end;
+    margin-right: 50px;
+    
+}
+i1{
+    width: 200px;
+
+}
+.b1{
+    border-radius: 5px;
+    height: 50px;
+    width: 100px;
+    background-color: blue;
+    color: white;
+    border-color: white;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+a{
+    color: aliceblue;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+.center{
+    height: 600px;
+    background-color: blue;
+    color: aliceblue;
+    display: flex;
+
+}
+.about{
+    color: aliceblue;
+    margin-left: 150px;
+    margin-top: 200px;
+    width: 40%;
+}
+.b2{
+    background-color: aquamarine;
+    color: aliceblue;
+    border-radius: 5px;
+    margin-top: 50px;
+    height: 50px;
+    width: 120px;
+}
+
+
+.i2{
+    margin-left: 300px;
+    height: 500px;
+}
+.footer{
+    background-color: whitesmoke;
+    display: flex;
+
+}
+.i4{
+    height: 150px;
+    margin-left: 150px;
+}
+.img{
+    width: 60%;
+    background-image: url("bird-colorful-logo-gradient-vector_343694-1365.avif");
+    background-repeat: no-repeat;
+}
